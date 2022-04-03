@@ -97,11 +97,11 @@ p {
 }
 
 .btn-info:hover {
-    background-color: #777777;
-    border-color: #777777;
+    background-color: #2F2F2F;
+    border-color: #2F2F2F;
     color: white;
-    -webkit-box-shadow: 1px 1px 10px #777777;
-    box-shadow: 1px 1px 10px #777777;
+    -webkit-box-shadow: 1px 1px 10px #2F2F2F;
+    box-shadow: 1px 1px 10px #2F2F2F;
     -webkit-transition: 0.7s;
     -o-transition: 0.7s;
     transition: 0.7s;
