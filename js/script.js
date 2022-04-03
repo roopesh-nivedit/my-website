@@ -1,7 +1,6 @@
 const downloadResume = document.getElementsByTagName("button")[0];
 
 downloadResume.addEventListener("click", function () {
-    console.log("Downloaded!!!");
-    downloadResume.style.backgroundColor = "#202538";
-    downloadResume.style.borderColor = "#202538";
+    downloadResume.style.backgroundColor = "#2F2F2F";
+    downloadResume.style.borderColor = "#2F2F2F";
 });
