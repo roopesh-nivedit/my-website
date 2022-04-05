@@ -38,7 +38,7 @@ a.navlink:active {
     a.navlink:visited,
     a.navlink:hover,
     a.navlink:active {
-        font-size: 1rem;
+        font-size: 0.7rem;
     }
 }
 
