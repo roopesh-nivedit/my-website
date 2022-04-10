@@ -38,13 +38,21 @@ a.navlink:active {
     a.navlink:visited,
     a.navlink:hover,
     a.navlink:active {
-        font-size: 0.75rem;
+        font-size: 1rem;
     }
 }
 
 .navlink {
     padding-left: 1.3rem;
     padding-right: 1.3rem;
+}
+
+@media only screen and (max-width: 630px) {
+
+    .navlink {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
 }
 
 
